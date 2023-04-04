@@ -95,4 +95,7 @@ a[data-tooltip]:hover:after {
     .calculator {
         width: 100%;
     }
+    #btn-side {
+        padding: 8px;
+    }
 }
